@@ -37,30 +37,22 @@ disqus_shortname:   Emil Majer
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              emajer32@gmail.com
+github-url:         EmilM32
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+flickr:            146196503@N04
 
 # Gems
 gems:
