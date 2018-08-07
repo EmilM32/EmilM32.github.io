@@ -2,7 +2,7 @@
 layout: post
 title: "Testowy post"
 date: 2012-05-22
-excerpt: "A ton of text to test readability."
+excerpt: "Krótki opis"
 tags: [sample post, readability, test]
 comments: false
 ---
