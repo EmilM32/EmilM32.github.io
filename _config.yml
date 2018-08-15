@@ -1,7 +1,7 @@
 # Site
 title:              Emil Majer
-bio:                'Strona prywatna'
-description:        "Jakiś opis"
+bio:                '-'
+description:        "Java | Kotlin | JavaScript | HTML | CSS"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo2.png'
