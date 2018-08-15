@@ -7,3 +7,6 @@ gem 'jekyll-mentions'
 gem 'jekyll-feed'
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
+source :rubygems
+
+gem 'json',    '2.1.0'

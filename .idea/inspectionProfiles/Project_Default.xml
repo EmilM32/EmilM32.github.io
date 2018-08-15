@@ -1,6 +1,10 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+    <inspection_tool class="AntDuplicateTargetsInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AntMissingPropertiesFileInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AntResolveInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="ConceptInspectionProvider" enabled="true" level="INFORMATION" enabled_by_default="true" />
     <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
         <value>
@@ -30,5 +34,8 @@
       </option>
       <option name="myCustomValuesEnabled" value="true" />
     </inspection_tool>
+    <inspection_tool class="SpecInspectionProvider" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="UnresolvedReference" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="UnusedDefine" enabled="false" level="INFORMATION" enabled_by_default="false" />
   </profile>
 </component>
