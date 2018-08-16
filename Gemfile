@@ -9,4 +9,4 @@ source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
 source :rubygems
 
-gem 'json',    '1.7.7'
+gem 'json',    '1.8.6'
