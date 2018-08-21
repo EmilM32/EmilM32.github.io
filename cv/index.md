@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 tags: [cv, Emil, Majer]
 date: 2016-03-21
 comments: false
