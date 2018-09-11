@@ -4,7 +4,6 @@ title: Projekty
 excerpt: "A List of Projects"
 comments: false
 ---
-<center>Projekty</center>
 
 ## Features
 * Minimal, you can focus on your content
